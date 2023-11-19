@@ -1,1 +1,1 @@
-# Controlling_DC_Motor_with_Proteus_Simulation
+In this repository has a simulation in Proteus to controll a DC Motor based on the ATMEGA8 microcontroller.
